@@ -13,16 +13,13 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16'
-
-    - name: Install LiaScript CLI (Correct)
-      run: npm install -g @liascript/lia-exec
+    - name: Download LiaScript Exporter
+      run: |
+        wget https://github.com/LiaScript/LiaScript-Exporter/releases/download/v1.7.0/lia-linux
+        chmod +x lia-linux
 
     - name: Build SCORM Package
-      run: liaex -i README.md --format scorm1.2 --output scorm-package
+      run: ./lia-linux -i README.md --format scorm1.2 --output scorm-package
 
     - name: Upload SCORM as Artifact
       uses: actions/upload-artifact@v4
