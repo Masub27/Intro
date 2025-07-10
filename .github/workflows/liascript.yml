@@ -18,8 +18,8 @@ jobs:
       with:
         node-version: '16'
 
-    - name: Install LiaScript CLI
-      run: npm install -g liascript
+    - name: Install LiaScript CLI (Correct)
+      run: npm install -g @liascript/lia-exec
 
     - name: Build SCORM Package
       run: liaex -i README.md --format scorm1.2 --output scorm-package
