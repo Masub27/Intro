@@ -25,7 +25,7 @@ jobs:
       run: liaex -i README.md --format scorm1.2 --output scorm-package
 
     - name: Upload SCORM as Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: scorm-package
         path: scorm-package
