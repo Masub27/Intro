@@ -455,7 +455,7 @@ An open invitation for you to share their thoughts on what aspects of the progra
   ### What needs improvement?
 __Your suggestions …__
 
->___Thank you for your active participation and attention!___
+
 
 # END
 
@@ -478,6 +478,7 @@ Thank you for your active participation and attention!
 </div>
 
 ---
+
 
 
 
