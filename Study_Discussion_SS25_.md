@@ -128,7 +128,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 | 7    | **Module 7: Professional Practical Studies**                                   | 10    |
 |      | Seminar: Practical Studies                                                     |       |
 |      | Internship                                                                     |       |
-| WP   | **Specialization area (3 selected modules to be taken)**                       |       |
+| WPF   | **Specialization area (3 selected modules to be taken)**                       |       |
 |      | **WPF Module 1: Organizational and Human Resource Development**                |       |
 |      | Organizational and Human Resource Development I                                | 4     |
 |      | Organizational and Human Resource Development II                               | 6     |
@@ -154,7 +154,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 The dissatisfaction with the ITVET master's program stems from its heavy focus on repetitive theory and lack of practical, career-oriented content. Students feel the curriculum is unorganized, outdated, and does not prepare them for real-world job opportunities, especially in Germany. Many students are uncertain about their career paths post-graduation and wish for more practical classes, exposure to professionals working in the field, and curriculum advancement focused on digital skills and applied learning.
 
-**Please elaborate why you are dissatisfied with the modules and content of the ITVET program so far**
+**Please elaborate why you are dissatisfied with the modules and content of the ITVET program so far:**
 
 * 	A field related to vocational education needs more practical classes and needs to understand a clear picture of where we can work and which areas we can concentrate in our career
 * 	It is chaotic, miscommunication, misinformation, very unorganized. 
@@ -250,13 +250,13 @@ Students emphasize the importance of integrating German language learning into t
 
 __More language skills__
 
-* German language should be a part of curriculum
+* German language should be a part of curriculum.
 * Also agreements can be made with language courses and students can benefit from courses at a discount. Especially after graduation, finding a job is not an easy process. In this process, students can be directed to German courses at a discount.
-* Providing free German language classes. Because we are already paying for this ITVET course
+* Providing free German language classes. Because we are already paying for this ITVET course.
 * Providing german languagr classes for free will be more helpfull because we are already studying a payable course
 * It's very pleasure if the university can provide us the free language learning sessions, which would be helpful to us in our professional and personal life.
-* Provide free German language class. Because German is very mandatory for this course and after working
-* The language requirement is also a big challenge for international students like me, So including German skills as a part of curriculum(like a module )will help students to get a job after completing the course
+* Provide free German language class. Because German is very mandatory for this course and after working.
+* The language requirement is also a big challenge for international students like me, So including German skills as a part of curriculum(like a module )will help students to get a job after completing the course.
 
 
 __More specialized knowledge__
@@ -307,7 +307,7 @@ __Sufficiently qualified staff in terms of subject matter and methodology and di
 
 
 * Length of class should be reduced
-* Please reduce class length and overlapping of classes
+* Please reduce class length and overlapping of classes.
 * Some professors are not at all good with the intention of programme. They are just putting the classes for long hours without considering the quality of teaching. After noon sessions are very incovenient to attend. Delay in the results of the course programme is also unacceptable. This will actually reduce the confidence of the people.
 * Proper communication with the students. Bring good qualified professors. More convenient timing for the classes. Preferably in the fore noon session itself.
 * Only i think we get late replies on E-mails even for the important ones so that i think it should be improved.
@@ -322,14 +322,13 @@ __Online/offline courses __
 * Classes should be physical because learning in a classroom is far better then online
 * Classroom
 * Hybrid system instead of just online classes.
-* If the more zoom lectures are recorded would be easier for students to manage
+* If the more zoom lectures are recorded would be easier for students to manage.
 * More in person meetings.
 * More pyhsical classes
-* Online learning is the best option for students but one thing, the barrier is about little difficulty in assignments task
+* Online learning is the best option for students but one thing, the barrier is about little difficulty in assignments task.
 * To better meet student needs, the program could offer more flexible learning options, like hybrid or online formats.
-* Classes should be in person for better understanding and communication
-* Highly doubt the worth of this degree with only online classes. Our university is highly recognized but our course seems worthless if a
-* Man sitting in India is able to do from there what I'm doing from here, it raises a lot of questions
+* Classes should be in person for better understanding and communication.
+* Highly doubt the worth of this degree with only online classes. Our university is highly recognized but our course seems worthless if a man sitting in India is able to do from there what I'm doing from here, it raises a lot of questions.
 * And the best part is the conduct of online classes as i choose this course because it was completely online which is convienient for me. 
 * Please decrease the fee and include more offline classes. Offline classes are more helpful and convenient for the students. Online classes are not engaging.
 
@@ -343,37 +342,37 @@ Students appreciate the ITVET program and the opportunities it provides, finding
 
 __Need for improvement__
 
-* I am finding it interesting at first place. But only thing that is really difficult for sitting so long in front of laptops and attend session for 3 hours I think some practical work should also be included in that
-* Please make your online platform more user friendly and if posssible please provide a short demo mp4 file for lsf and eLearning
-* Please provide recorded lectures sometime students are not able to attend classes due to technical issues and so on 
-* Recorded seminars and corresponding materials or resourses
+* I am finding it interesting at first place. But only thing that is really difficult for sitting so long in front of laptops and attend session for 3 hours I think some practical work should also be included in that.
+* Please make your online platform more user friendly and if posssible please provide a short demo mp4 file for lsf and eLearning.
+* Please provide recorded lectures sometime students are not able to attend classes due to technical issues and so on. 
+* Recorded seminars and corresponding materials or resourses.
 * Technical Management
 * Website should be user friendly.
 * Improving the quality of teaching, organising and structuring the course and its curriculum is very important, especially when it is a paid course. We expect that it should be maintained the standard to save the money, time and effort of the people who are involved.
-* Enhancement the option of more reviewing and uploading assignment and other material from 2 time to at-least 4
+* Enhancement the option of more reviewing and uploading assignment and other material from 2 time to at-least 4.
 
 __Positive experiences__
 
-* As per my knowledge it up to date
-* Familier with european teaching and training
+* As per my knowledge it up to date.
+* Familier with european teaching and training.
 * Everything is good
 * I am in my first semester, so everything is going great.
-* I am very glad to take admission in ovgu(ITVET)
+* I am very glad to take admission in ovgu(ITVET).
 * Everything is good
-* It's a great experience to involve in Itvet and the OvGU has provided the best opportunity for students
+* It's a great experience to involve in Itvet and the OvGU has provided the best opportunity for students.
 * Its very much helpfull in aquring the vocational and management skills
 * Untill now i think everything is going good. 
 * Overall, the course is fascinating and keeps me engaged from start to finish.
-* Satisfied with overall management and staff
+* Satisfied with overall management and staff.
 * Thanks
 * Thank you
 * Thank you for support and guidance
-* The course is good enough to study and complete
+* The course is good enough to study and complete.
 * There's alot to learn and making myself prepared for upcoming challenges.
 
 # 3. Examination system
 
-* Examinations enable a meaningful review of the qualification goals achieved
+* Examinations enable a meaningful review of the qualification goals achieved.
  
 * I request that to please update the credits in the grade card by professors up to date, it will help students to know their study status. Because nowadays, students are not getting proper part-time jobs.
 * Timely announcement of results 
@@ -384,9 +383,9 @@ __Positive experiences__
 
 __What do you think about it?__
 
-* Examinations are module-related, knowledge- and competence-oriented
+* Examinations are module-related, knowledge- and competence-oriented.
 * Please make assignment easier for us and cooperate with us for time to submit the tasks.
-* The assignments are designed to prepare students for writing their master's theses! Many students fail their master's theses. Student workload: 4 SWS; Course active participation 56h/ Selfstudy 244h/ in total 300h (module)
+* The assignments are designed to prepare students for writing their master's theses! Many students fail their master's theses. Student workload: 4 SWS; Course active participation 56h/ Selfstudy 244h/ in total 300h (module).
 
  ### Is that right?
   ### What is good? 
@@ -440,7 +439,7 @@ Many students find the tuition fees for the ITVET program to be high and financi
 * Please reduce the fee of the semester it’s very difficult to manage aling with family responsibilities
 * Program is really good and informative, for some students Tuition fee is a big issue, as some students come from middle class backgrounds, A slight reduction in tuition fee can solve this problem and increase admissions in MSc. ITVET. That's all I want to say. Otherwise the program is really good.
 * Reduce the fee of the programme. 
-* The tuition fee is little bit higher, even though its a public university 
+* The tuition fee is little bit higher, even though its a public university. 
 * While I am deeply committed to focusing on my studies, I am also under significant financial pressure due to the tuition fee of €2,000 for the upcoming semesters. As this is a self-funded course, I often find it difficult to fully concentrate on my academic responsibilities, as I am constantly concerned about meeting the financial requirements.
 ___I have experienced delays in receiving responses from the ITVET department. For example, despite having paid my tuition fee in full, I did not receive my matriculation certificate in a timely manner. At that point, I urgently needed the certificate, but it took nearly 10 days to receive it, which caused considerable inconvenience. I understand that there may be procedural or workload-related reasons behind these delays, but I wanted to express how these issues have impacted my experience and academic focus. I would greatly appreciate any support or guidance you can provide regarding these matters.___
 
@@ -479,6 +478,7 @@ Thank you for your active participation and attention!
 </div>
 
 ---
+
 
 
 
