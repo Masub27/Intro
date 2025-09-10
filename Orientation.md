@@ -671,7 +671,7 @@ https://elearning.ovgu.de/course/view.php?id=19671
 
 
 
-<span style="color: purple;">Tuesday/Thursday 9am-1:30pm (6h); 1pm-4:30pm (4h) (Class time: 180 Min. 4h; 270 Min. 6h) </span>
+<span style="color: purple;">Tuesday/Thursday 9am-1:30pm (6h); 9am-12;30 (4h) (Class time: 180 Min. 4h; 270 Min. 6h) </span>
 
 
 >1) 14.10.2025 (6h); 2) 16.10.2025 (6h); 3) 23.10.2025 (6h); 4) 28.10.2025 (6h); 5) 30.10.2025 (4h)
@@ -796,6 +796,7 @@ https://elearning.ovgu.de/course/view.php?id=18077
 # END
 
 ![](https://github.com/Masub27/Intro/blob/main/3d.gif?raw=true)
+
 
 
 
