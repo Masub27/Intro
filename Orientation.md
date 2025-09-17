@@ -306,7 +306,7 @@ https://elearning.ovgu.de/course/view.php?id=19511
 <span style="color: green;">Seminar: Didactics and Learning Theories in Vocational Education and Training (6 CP, 1. Group: Dr. Olena Karpova, 2. group Mr Lutz Thelen)</span>  
 
 LSF:
-https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=224214&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung 
+https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=225865&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung  
 
 
 
@@ -796,6 +796,7 @@ https://elearning.ovgu.de/course/view.php?id=18077
 # END
 
 ![](https://github.com/Masub27/Intro/blob/main/3d.gif?raw=true)
+
 
 
 
