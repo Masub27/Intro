@@ -311,7 +311,7 @@ https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=
 
 
 E Learning:
-https://elearning.ovgu.de/course/view.php?id=19511 
+https://elearning.ovgu.de/course/view.php?id=19512 
 
 <span style="color: Purple;">
 GROUP#1) Tuesday 1pm – 4:30pm (4h) </span>
@@ -796,6 +796,7 @@ https://elearning.ovgu.de/course/view.php?id=18077
 # END
 
 ![](https://github.com/Masub27/Intro/blob/main/3d.gif?raw=true)
+
 
 
 
