@@ -1,8 +1,8 @@
 <!--
 
-author:   André Dietrich
+author:   Masub Makhdoom
 email:    masub.makhdoom@ovgu.de
-date:     29/03/2025
+date:     20/09/2025
 version:  30.0.0
 language: en
 narrator: UK English Female
@@ -34,7 +34,9 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 -->
 
 # Understanding Turnitin 
- ### Mahwish Kanwal Sep-2025
+ ### Dr. Yuliya Nepomyashcha
+ ### Mahwish Kanwal
+ ### Masub Makhdoom
 # What is Turnitin?
 Turnitin® is a tool that students and instructors can use to identify potential instances of plagiarism. When you submit your paper to Turnitin®, you will get a similarity report that should be reviewed carefully so you can make any needed revisions to your paper.  
 (Writing Center UAGC, 2025)
@@ -269,5 +271,6 @@ Enrolment Key: ITVETWS25
 Class ID: 50227907
 
 Enrolment Key: ITVETWS25
+
 
 
