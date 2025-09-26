@@ -370,7 +370,7 @@ https://elearning.ovgu.de/course/view.php?id=19514
  **<span style="color: green;">Seminar: Introduction to Research and Academic Writing ( Lina Lockau, Mahwish Kanwal)</span>**  
 
  LSF:
-https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=225950&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung 
+https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=225822&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 
 E Learning:
 https://elearning.ovgu.de/course/view.php?id=19530
@@ -796,6 +796,7 @@ https://elearning.ovgu.de/course/view.php?id=18077
 # END
 
 ![](https://github.com/Masub27/Intro/blob/main/3d.gif?raw=true)
+
 
 
 
