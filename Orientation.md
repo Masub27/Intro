@@ -570,7 +570,7 @@ https://elearning.ovgu.de/course/view.php?id=19529
 
 <span style="color: purple;">Monday/Friday 
 </span>
-> 1) 27.10.2025 (1h: 4pm-4:45pm), 2) 07.11.2025 (7h: 9am-4pm), 3) 21.11.2025 (7h: 9am-4pm), 4) 19.12.2025 (3h: 9am-12pm); 5) 16.01.2026 (7h: 9am-4pm), 6) 30.01.2026 (3h: 9am-12pm)
+> 1) 27.10.2025 (1h: 5pm-5:45pm), 2) 07.11.2025 (7h: 9am-4pm), 3) 21.11.2025 (7h: 9am-4pm), 4) 19.12.2025 (3h: 9am-12pm); 5) 16.01.2026 (7h: 9am-4pm), 6) 30.01.2026 (3h: 9am-12pm)
 
 
 
@@ -796,6 +796,7 @@ https://elearning.ovgu.de/course/view.php?id=18077
 # END
 
 ![](https://github.com/Masub27/Intro/blob/main/3d.gif?raw=true)
+
 
 
 
