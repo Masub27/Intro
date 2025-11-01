@@ -1,3 +1,18 @@
+<!--
+author: Masub Makhdoom
+email: your_email@example.com
+version: 1.0
+language: en
+narrator: UK English Male
+comment: This lesson is rendered through LiaScript
+-->
+
+# Introduction to Artificial Intelligence
+
+Welcome to your interactive lesson powered by **LiaScript**!
+
+
+
 # Example Lesson (replace with your topic)
 
 > 💡 Use Copilot Chat here. Paste this prompt:
@@ -90,3 +105,9 @@ Artificial Intelligence is a powerful set of techniques that enable computers to
 - **Online Courses:** Coursera “AI For Everyone” by Andrew Ng.
 - **Interactive Tutorials:** Google’s *Machine Learning Crash Course*.
 - **Communities:** r/MachineLearning on Reddit, AI Stack Exchange.
+## 📚 Available Lessons
+
+| Lesson Title | Description | Links |
+|---------------|-------------|-------|
+| **Introduction to Artificial Intelligence** | Learn what AI is and explore real-world examples. | [View (Markdown)](lessons/example-lesson.md) · [Interactive (LiaScript)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Masub27/Intro/main/lessons/example-lesson.md) |
+| **Template Lesson** | The base structure for new lessons. | [View (Markdown)](lessons/lesson-template.md) |
