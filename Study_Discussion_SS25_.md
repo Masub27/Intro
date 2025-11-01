@@ -1,0 +1,492 @@
+<!--
+author: Masub Makhdoom
+email: masub.makhdoom@ovgu.de
+version: 1.0.0
+language: en
+narrator: US English Female
+comment: Interactive 90-minute workshop on AI applications in TVET education for teachers
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png
+
+link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/refs/heads/main/ASSET_basic.css
+
+@style
+.sector-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+}
+
+.sector-card:hover {
+    transform: translateY(-5px);
+}
+
+.ai-tool-demo {
+    background: #f8f9fa;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+}
+
+.quiz-interactive {
+    background: linear-gradient(45deg, #ff6b6b, #ffa726);
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 1rem 0;
+}
+
+.resource-link {
+    background: #28a745;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0.25rem;
+    transition: all 0.3s ease;
+}
+
+.resource-link:hover {
+    background: #218838;
+    transform: scale(1.05);
+}
+@end
+
+@customQuiz
+[[...]]
+<script>
+"@0" == btoa( "@input".trim().toLowerCase() )
+</script>
+@end
+
+@aiDemo: <div class="ai-tool-demo">**AI Demo:** @0<br>**Tool:** @1<br>**Try it:** [Click here](@2)</div>
+
+@sectorCard: <div class="sector-card">**@0**<br>@1</div>
+
+@resourceLink: <a href="@1" class="resource-link" target="_blank">@0</a>
+
+-->
+
+# WELCOME
+![](https://github.com/Masub27/Intro/blob/main/Discussion.png?raw=true)
+
+# 1. Curriculum Structure
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#0D47A1" />
+
+  <!-- White Panel -->
+  <rect x="50" y="50" width="700" height="350" rx="25" fill="white" />
+
+  <!-- Main Title -->
+  <text x="400" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="bold" text-anchor="middle" fill="#0D47A1">
+    Study structure/degree: M. Sc. ITVET
+  </text>
+
+  <!-- Subtitle -->
+  <text x="400" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="24" text-anchor="middle" fill="#1565C0">
+   Standard period of study: 6 semesters
+    
+  </text>
+
+  <!-- Footer Quote -->
+  <text x="400" y="320" font-family="Georgia, serif" font-size="18" text-anchor="middle" fill="#555">
+    Profile types: Further education
+  </text>
+</svg>
+
+# Qualification Goals and Competence Profiles
+
+**English profile** 
+
+| Nr.  | Module/Seminar                                                                 | CP    |
+|------|--------------------------------------------------------------------------------|-------|
+| 1    | **Module 1: Didactics and methodology of Technical and Vocational Education and Training** | 10    |
+|      | Seminar: Didactics and Learning Theories in Vocational Education and Training  | 6     |
+|      | Seminar: Development of Learning and Teaching Media in Vocational Education    | 4     |
+| 2    | **Module 2: Structures and theories of Technical and Vocational Education and Training** | 10    |
+|      | Seminar: Structures and Theories of Vocational Education                       | 4     |
+|      | Seminar: Focus Seminar for Vocational Education                                | 6     |
+| 3    | **Module 3: Didactics of vocational learning and teaching**                    | 10    |
+|      | Seminar: Learning and Teaching Technologies in Practice                        | 4     |
+|      | Seminar: Basics on Didactics for Specialisation                                | 6     |
+| 4    | **Module 4: International Comparative Technical and Vocational Education and Training** | 10    |
+|      | Seminar: International Vocational Education I                                  | 4     |
+|      | Seminar: International Vocational Education II                                 | 6     |
+| 5    | **Module 5: Management and evaluation of International Technical and Vocational Education and Training** | 10    |
+|      | Seminar: Quality Management                                                    | 6     |
+|      | Seminar: Vocational Education Management                                       | 4     |
+| 6    | **Module 6: Curriculum and Media development**                                 | 10    |
+|      | Seminar: Development of Curricula                                              | 4     |
+|      | Seminar: Action Fields of TVET Trainers                                        | 6     |
+| 7    | **Module 7: Professional Practical Studies**                                   | 10    |
+|      | Seminar: Practical Studies                                                     |       |
+|      | Internship                                                                     |       |
+| WPF   | **Specialization area (3 selected modules to be taken)**                       |       |
+|      | **WPF Module 1: Organizational and Human Resource Development**                |       |
+|      | Organizational and Human Resource Development I                                | 4     |
+|      | Organizational and Human Resource Development II                               | 6     |
+|      | **WPF Module 2: Vocational training for sustainable development**              | 10    |
+|      | Seminar: Didactics for Sustainable Development                                 | 6     |
+|      | Seminar: Vocational Education for Sustainable Development                      | 4     |
+|      | **WPF Module 3: Methods of In-Company Training**                               | 10    |
+|      | Seminar: Methods of Vocational Training                                        | 6     |
+|      | Seminar: Workshop Methods of In-Company Training                               | 4     |
+|      | **WPF Module 4: Research Methods**                                             | 10    |
+|      | Seminar: Qualitative Research Methods                                          | 4     |
+|      | Seminar: Introduction in Research and Academic Writing                         | 6     |
+|      | Seminar: Quantitative Research Methods                                         | 4–6   |
+|      | Further specialisation module within the scope of the teaching offer           | 10    |
+| 8    | **MA**                                                                          | 20    |
+|      | **Total**                                                                       | 120   |
+
+>Total = 120 Credit Points
+
+# What needs further improvement?
+
+    --{{0}}--
+
+The dissatisfaction with the ITVET master's program stems from its heavy focus on repetitive theory and lack of practical, career-oriented content. Students feel the curriculum is unorganized, outdated, and does not prepare them for real-world job opportunities, especially in Germany. Many students are uncertain about their career paths post-graduation and wish for more practical classes, exposure to professionals working in the field, and curriculum advancement focused on digital skills and applied learning.
+
+**(5.3)Please elaborate why you are dissatisfied with the modules and content of the ITVET program so far:**
+
+* 	A field related to vocational education needs more practical classes and needs to understand a clear picture of where we can work and which areas we can concentrate in our career
+* 	It is chaotic, miscommunication, misinformation, very unorganized. 
+* 	Respected professor, most of the students doesn't know why they take this degree, if you ask to some one they will tell just to come Germany they took this master degree. we can see that how much students left this master course in between because even they don't know what they are learning.  None of the student so far didn't achieve any thing out of this masters course. There are some students who might did internships but it truly helped by some off the professors here but every one are not getting this opportunity. So am very sad to say this but at the same time am so straight forward in conveying my opinion even i don't know how my career will be and after completing this masters I don't have any hope that I will find something in through this masters course.
+* The contents are actually not properly designed. The curriculum need more advancements, especially in the digital and practical fields.
+
+ **(5.4) Please elaborate how the actual program contents do not align with your expectations:**
+
+
+* 	For eg; almost all the modules discussing the same basic topics related to vocational education management, EQF, curriculum development, etc and mainly discuss the theory part. There are very less practical knowledge shared to students and no opportunities providing for understanding real world experiences.
+* I prefer to get more info to prepare us to work/get a job in Germany.
+* Program contents are not upto my expectations as they are dealing with the same thing in different modules and the lack of practical learning is obvious.
+ 
+ **(5.7) Which program content does not align with your professional or academic goals?**
+
+
+* I don't want to answer here
+* Still now we are totally confused about how we can select or which area of career we can choose after studies, and I didn't find someone who are working in the same field after studies . So, it could be helpfull if we can meet that kind of working professional so we get a idea how they choose their career and what the necessary skills needed for a career oriented program
+* The unnecessary theory portions, which are just giving the basic knowledge of vocational education. Infact we expect more on higher level implementation of learning and development methods as it is master level course.
+
+# What needs further improvement?
+
+![](https://github.com/Masub27/Intro/blob/main/picc1.png?raw=true)
+
+* Everyone here in the Magdeburg doesn’t consider this __ITVET__ program as a qualified program since there are so many dropouts in the middle of studies hence i am trying to feel motivated to pursue this course for the better future and self-improvement.
+
+![](https://github.com/Masub27/Intro/blob/main/picc2.png?raw=true)
+
+![](https://github.com/Masub27/Intro/blob/main/pic3.png?raw=true)
+
+# What needs further improvement?
+
+    --{{0}}--
+
+Students suggest improving the program by adding more practical experiences, such as internships, industry visits, and real job practice opportunities. They emphasize the need for better organization, communication, and career guidance tailored to their backgrounds. Strengthening partnerships between the university and local industries, offering workshops on job readiness, and providing flexible, skill-focused training would help students prepare effectively for the job market, especially in Germany. Overall, students want a stronger connection between their studies and actual professional work to boost their career prospects.
+**What improvements do you think could better meet the needs of students in this program?**
+
+>More practical experience in a relevant profession
+
+* Adding practical units to this course
+* Better organization and follow up of functioning of the program. Fixing the communication gap. Finding the major backgrounds of majority and providing guidance and assistance for professional development. Arranging company or potential work place visits.
+* Better to ask all the students then we can have some common points to rectify and just give more updates regarding to the job of our field
+* I request to provide some unpaid internships so that we can accrue more real job practice and how our career is related to the world
+* Internship places can be arranged for students for module 7. It is very difficult to find a job in Magdeburg without knowing German, but students can be helped by making university agreements. Also 2000 euro semester fee is too much, almost all students have to work for paying this. There are too many students who have to go to work during class hours. 
+* Internship opportunities must be improved. Because every student need job, if internship is provided by college it will be very great thing for the students.
+* Practical visits to institutes.
+* And also provide intership.
+* More teacher assistants. 
+* Enhancing career support through internships and resume workshops would boost job readiness.
+* If the program can provide any support for collaboration with any industries so we can do some unpaid internships, it will be better to start our career and also to provide more practical experience. 
+* More job opportunities must be communicated to students. so they can shape their future according to their goal.
+* Respected professor, I would like to complete this master course in better way because am talented person with a lot of skills that I attained from my country. Here after joining this masters course no one knows what's happening inside this masters course. So always try to keep job related workshops to our course or at least mandatory internship with some Industries or company in Germany, I mean our university or professors should have some direct relationships with some industries, it will help the first step for students to get some industry training rest students can make the skills. its a huge request we need more vacancies or direct relationship with some company rather than sitting & studying this course for three years.
+* The course was well-structured and helpful. I suggest more practical sessions for better understanding. 
+* TVET can be improved by strengthening industry partnerships, updating equipment, and integrating soft skills and entrepreneurship training. Flexible upskilling options will also support lifelong learning and adaptability.
+
+# What needs further improvement?
+![](https://github.com/Masub27/Intro/blob/main/pic4.png?raw=true)
+
+<span style="color:red;">
+What can we organize better if the majority of students do not participate in any events such as ITVET introduction, career orientation (profile development, identifying employment fields), or professional practical studies? Without active interaction, the problems described cannot be solved! Weekly meetings were also attended almost exclusively by first-semester students.
+</span>
+
+![](https://github.com/Masub27/Intro/blob/main/pic5.png?raw=true)
+
+# What needs further improvement?
+ ## Practical professional studies (“Professionspraktische Studien”, Module 7)
+
+    --{{0}}--
+Students expect the Practical Professional Studies (Module 7) to provide hands-on, industry-relevant experience that bridges classroom theory with real work environments. They look forward to gaining job-ready skills, improving problem-solving abilities, and understanding workplace dynamics through internships, projects, or simulations. They also hope for guidance on career development, networking opportunities, and support in selecting suitable modules to prepare effectively for their future careers.
+ __What are your general expectations for the Practical professional studies?__
+
+* Get a job
+* Getting to know the real work environment, facing challenges and trying to learn to solve problems
+* Hands on learning, Industry-Relevant skills, Professionalism and work ethics
+* High
+* I expect Practical Professional Studies to provide hands-on experience that bridges theory and real-world application. It should develop job-ready skills through projects, internships, or simulations
+* I expect to gain hands-on experience, improve my skills, and understand real workplace dynamics to prepare for my future career
+* It should help in securing internship
+* More practical and it should help me to understand more about the job opportunities and practical experiences and the practical application of the theory studied in different seminars
+* My general expectations for Practical Professional Studies are to gain hands-on experience, develop real-world skills, improve problem-solving abilities, and prepare effectively for my future career
+* Related to a profession that makes my career grow in future
+* Sharing examples of best portfolios or curriculum vitae Helping students to make better industry networks, and through that they can obtain better internship or job opportunities. Proper guidance to complete the course by selecting suitable modules fit for their backgrounds and attain sufficient credit points within the course duration
+* To enhance focus on the real-world application and day-to-day functioning of the organization
+* To prepare myself for relevant jobs in companies
+
+![](https://github.com/Masub27/Intro/blob/main/pic6.png?raw=true)
+
+# What needs further improvement?
+
+    --{{0}}--
+
+Students emphasize the importance of integrating German language learning into the program, preferably as a core module or through free or discounted language courses, to improve job prospects and daily life in Germany. They also request more specialized and practical knowledge, including subjects like Human Resource management, digital skills, AI applications, and computer software. Students want better faculty support, timely feedback, and updated course content with new specializations and workshops to bridge the gap between theory and practical career needs.
+
+__More language skills__
+
+* German language should be a part of curriculum.
+* Also agreements can be made with language courses and students can benefit from courses at a discount. Especially after graduation, finding a job is not an easy process. In this process, students can be directed to German courses at a discount.
+* Providing free German language classes. Because we are already paying for this ITVET course.
+* Providing german languagr classes for free will be more helpfull because we are already studying a payable course
+* It's very pleasure if the university can provide us the free language learning sessions, which would be helpful to us in our professional and personal life.
+* Provide free German language class. Because German is very mandatory for this course and after working.
+* The language requirement is also a big challenge for international students like me, So including German skills as a part of curriculum(like a module )will help students to get a job after completing the course.
+
+
+__More specialized knowledge__
+
+* Include more subjects related to Human Resource and administration-related, and professors should monitor students' development, and they should update the students about their study status, especially their credits they have received and what improvements students should bring in their studies give them feedback up to date. Students are not receiving a timely reply from their professors.
+
+* Introducing new areas of specialization, Improving the content of Basic courses.
+* In my opinion, some practical skills are required, such as computer software knowledge.
+* I would to include more practical sessions in the program and link the contents with AI. Improve digital and practical knowledge of faculties. Conduct more workshops and real demonstrations to bridge the career gap of students.
+
+# Future Action Planning
+
+  ### Introducing new specialisation modules as follows
+	__WPF Module: Methodology of Online School Management and Educational Blogger:__
+
+* 	Seminar: Methodology and trends of online school management, A Paradigm Shift in Teaching: From Educator to Educational Blogger 
+*   Facilitator: Dr. Olena Karpova 
+* 	Offered in: WS25/26
+	__Following WPF Module from Hannes Tegelbeckers is under development: __
+
+*    Potential content area: AI in TVET
+* 	Module for 10 CP 
+* 	Offered in WS25/26
+	__Following WPF Modules are under planning and discussion: __
+
+*   Business Data Mining in R/R Studio
+* 	Mathematical and Computer Modelling for Educators
+* 	Web 2.0 for Educators 
+* 	Facilitator: Bakhyt Alipova
+* 	Offered in WS25/26 TBD (To be discussed)
+	__Following WPF Module from Masub Makhdoom is under development:__ 
+
+* 	Potential Content area: Electrotechnical & Electronics in TVET
+* 	Facilitator: Masub Makhdoom
+* 	Offered in SS26 (TBD)
+
+
+# 2.	Implementation of the curriculum
+
+    --{{0}}--
+Students have mixed opinions on the program’s staff, class format, and organization. While some appreciate the polite teaching and overall management, others criticize long class hours, inconvenient timings, and delayed communication. There is a strong preference for more offline or hybrid classes, as many find in-person learning more effective and engaging than fully online formats. Students also highlight issues with complicated administrative processes and suggest reducing class length and fees. Flexibility in learning modes and better communication would improve the overall student experience.
+ ### Is that right?
+  ### What is good?
+   ### What needs improvement?
+>Selection of personnel
+
+__Sufficiently qualified staff in terms of subject matter and methodology and didactics!?__
+
+
+* Length of class should be reduced
+* Please reduce class length and overlapping of classes.
+* Some professors are not at all good with the intention of programme. They are just putting the classes for long hours without considering the quality of teaching. After noon sessions are very incovenient to attend. Delay in the results of the course programme is also unacceptable. This will actually reduce the confidence of the people.
+* Proper communication with the students. Bring good qualified professors. More convenient timing for the classes. Preferably in the fore noon session itself.
+* Only i think we get late replies on E-mails even for the important ones so that i think it should be improved.
+* Teachers teaches very politely
+* Satisfied with overall management and staff
+
+
+__Online/offline courses __
+
+* We need offline classes.
+* Better organized and more in-class teaching. Less platforms for all the legistic procedure, it is too complicated, I am here to learn, not doing all the registration.
+* Classes should be physical because learning in a classroom is far better then online
+* Classroom
+* Hybrid system instead of just online classes.
+* If the more zoom lectures are recorded would be easier for students to manage.
+* More in person meetings.
+* More pyhsical classes
+* Online learning is the best option for students but one thing, the barrier is about little difficulty in assignments task.
+* To better meet student needs, the program could offer more flexible learning options, like hybrid or online formats.
+* Classes should be in person for better understanding and communication.
+* Highly doubt the worth of this degree with only online classes. Our university is highly recognized but our course seems worthless if a man sitting in India is able to do from there what I'm doing from here, it raises a lot of questions.
+* And the best part is the conduct of online classes as i choose this course because it was completely online which is convienient for me. 
+* Please decrease the fee and include more offline classes. Offline classes are more helpful and convenient for the students. Online classes are not engaging.
+
+<span style="color:red;"> Hybrid courses (Since not all students in Magdeburg are located outside of their study location due to a lack of visas, internships, or work, the most satisfactory solution is hybrid teaching. However, not all lecturers are located in Magdeburg. Therefore, not all courses can currently be organized in hybrid format.)
+</span>
+
+# Implementation of the courses
+
+    --{{0}}--
+Students appreciate the ITVET program and the opportunities it provides, finding it engaging and valuable for gaining vocational and management skills. However, they suggest improvements such as shorter online sessions with more practical work, a more user-friendly online platform, and availability of recorded lectures and materials to accommodate technical difficulties. Enhancing the teaching quality, course organization, and assignment submission options would also improve the learning experience, especially given that it is a paid program.
+
+__Need for improvement__
+
+* I am finding it interesting at first place. But only thing that is really difficult for sitting so long in front of laptops and attend session for 3 hours I think some practical work should also be included in that.
+* Please make your online platform more user friendly and if posssible please provide a short demo mp4 file for lsf and eLearning.
+* Please provide recorded lectures sometime students are not able to attend classes due to technical issues and so on. 
+* Recorded seminars and corresponding materials or resourses.
+* Technical Management
+* Website should be user friendly.
+* Improving the quality of teaching, organising and structuring the course and its curriculum is very important, especially when it is a paid course. We expect that it should be maintained the standard to save the money, time and effort of the people who are involved.
+* Enhancement the option of more reviewing and uploading assignment and other material from 2 time to at-least 4.
+
+__Positive experiences__
+
+* As per my knowledge it up to date.
+* Familier with european teaching and training.
+* Everything is good
+* I am in my first semester, so everything is going great.
+* I am very glad to take admission in ovgu(ITVET).
+* Everything is good
+* It's a great experience to involve in Itvet and the OvGU has provided the best opportunity for students.
+* Its very much helpfull in aquring the vocational and management skills
+* Untill now i think everything is going good. 
+* Overall, the course is fascinating and keeps me engaged from start to finish.
+* Satisfied with overall management and staff.
+* Thanks
+* Thank you
+* Thank you for support and guidance
+* The course is good enough to study and complete.
+* There's alot to learn and making myself prepared for upcoming challenges.
+
+# 3. Examination system
+
+* Examinations enable a meaningful review of the qualification goals achieved.
+ 
+* I request that to please update the credits in the grade card by professors up to date, it will help students to know their study status. Because nowadays, students are not getting proper part-time jobs.
+* Timely announcement of results 
+* Due to the plagiarism issue, it is necessary to have coursework reviewed in Turnitin.
+* Several lecturers have reported in recent years that students are submitting work from other students from previous semesters as their own. Many students tend to copy data and submit it for examination as their own work.
+* Grades in the examination system are only entered after the Turnitin review!
+* It is important to upload the assignments to Turnitin at the same time as submitting them to the lecturers via the e-learning system or email. This way, errors can be avoided.
+
+__What do you think about it?__
+
+* Examinations are module-related, knowledge- and competence-oriented.
+* Please make assignment easier for us and cooperate with us for time to submit the tasks.
+* The assignments are designed to prepare students for writing their master's theses! Many students fail their master's theses. Student workload: 4 SWS; Course active participation 56h/ Selfstudy 244h/ in total 300h (module).
+
+ ### Is that right?
+  ### What is good? 
+   ### What needs improvement?
+
+# 4. Study ability
+
+* Studyability in the standard period of study is guaranteed (6 Semester)
+* What do you think about it?
+* Appropriate study and timetable design and study organisation, in particular taking into account the individual needs and life situation of the students
+ ### What do you think about it?
+ >### High-quality support services are provided
+ ### What do you think about it?
+ >### Subject-specific and interdisciplinary study guidance is offered 
+ ### What do you think about it?
+ ### What is good? 
+ ### What needs improvement?
+
+# 5. Professional-content standards 
+
+* The topicality and adequacy of the subject-specific and academic requirements is guaranteed.
+*  What do you think about it?
+* The content and methodological-didactic approaches of the curriculum are continuously reviewed and adapted to further developments.
+
+ ### What do you think about it?
+ ### What is good? 
+ ### What needs improvement?
+
+# 6. Optional Topics
+
+    --{{0}}--
+Many students find the tuition fees for the ITVET program to be high and financially burdensome, impacting their ability to focus on studies and manage living costs in Germany. They request fee reductions, scholarships, or installment options to ease this pressure. Some suggest recorded lectures to help with attendance challenges. Delays in administrative responses, such as issuing matriculation certificates, have caused additional stress. Despite these issues, students appreciate the program quality and hope for improvements to make it more affordable and accessible.
+
+> Tuition fees
+
+* The tuition fees is more and less affordable for many students which is a main cause of students going away from ITVET.
+* I request the faculty to think upon this matter by decreasing the tuition fees.
+* As per my opinion, all lecture should be recorded if someone not able to attend class for any reason, can listen repeat lecture. or can helpful in network issue.
+* As this is a paid course, students need to earn as much money as they can during a semester to pay the higher fee and to meet their living cost in Germany. So either completely making it a free of cost program or reducing the fees could help the students to do better in their academic performance.
+* Can reduce the fees, which would help students to get relief from financial burden because here now to get a part time job is very crucial.
+* I request to consider the fees because right now the part time jobs are not sufficient, and the living expenses are much higher so its very hard to manage both the studies and work. 
+* I think the tuition fess is relatively high.
+* Reduce the semester fee
+* Reduction in the fees
+* Subsidies option in tuition fee like scholarship and performance based reduction in fees
+* The high fee of this programme is a burden to students. already it is so challenging for the students to survive the expenses in germany. in addition to that they have to pay the huge amount of fee for the course programme.
+* The fee structure is a little bit high for students now. 
+* I think the program is really good, in my honest opinion, may be reduction of tuition fee can attract more students.
+* I think the semester tuition is too high for us and there are also no practical workshops to better understand the concepts.
+* Please reduce the fee. if you do that more international students get the opportunity to study in __ITVET__.
+* Please reduce the fee of the semester it’s very difficult to manage aling with family responsibilities
+* Program is really good and informative, for some students Tuition fee is a big issue, as some students come from middle class backgrounds, A slight reduction in tuition fee can solve this problem and increase admissions in MSc. ITVET. That's all I want to say. Otherwise the program is really good.
+* Reduce the fee of the programme. 
+* The tuition fee is little bit higher, even though its a public university. 
+* While I am deeply committed to focusing on my studies, I am also under significant financial pressure due to the tuition fee of €2,000 for the upcoming semesters. As this is a self-funded course, I often find it difficult to fully concentrate on my academic responsibilities, as I am constantly concerned about meeting the financial requirements.
+___I have experienced delays in receiving responses from the ITVET department. For example, despite having paid my tuition fee in full, I did not receive my matriculation certificate in a timely manner. At that point, I urgently needed the certificate, but it took nearly 10 days to receive it, which caused considerable inconvenience. I understand that there may be procedural or workload-related reasons behind these delays, but I wanted to express how these issues have impacted my experience and academic focus. I would greatly appreciate any support or guidance you can provide regarding these matters.___
+
+> Department very helpful which gave me chance to pay fee in instalment. I wish, I receive faster my appointment and visa so I will come Germany and see university with my real eye as well as explore Germany.
+
+# Now your turn – let’s hear from you!
+
+    --{{0}}--
+An open invitation for you to share their thoughts on what aspects of the program they find positive, what areas need improvement, and any suggestions they may have. It closes with a note of appreciation for their active participation and attention.
+
+ ### What would you like to discuss?
+ ### What is good? 
+  ### What needs further improvement?
+__Your suggestions …__
+
+
+
+# END
+
+---
+
+<div style="background-color:#3498db; padding:50px; text-align:center; height:100vh; display:flex; flex-direction:column; justify-content:center;">
+
+# 🎉 <span style="color:#ffffff;">Thank You!</span>  
+
+<span style="color:#f1f1f1; font-size:1.5em;">
+Thank you for your active participation and attention!
+</span>
+
+<br>
+
+<em style="color:#dfe6e9; font-size:1.2em;">
+"Bridging theory and practice through vocational training transforms knowledge into impactful skills."
+</em>
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
