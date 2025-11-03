@@ -107,6 +107,8 @@ Artificial Intelligence is a powerful set of techniques that enable computers to
 - **Communities:** r/MachineLearning on Reddit, AI Stack Exchange.
 ## 📚 Available Lessons
 
+#  Lesson catalog
+
 | Lesson Title | Description | Links |
 |---------------|-------------|-------|
 | **Introduction to Artificial Intelligence** | Learn what AI is and explore real-world examples. | [View (Markdown)](lessons/example-lesson.md) · [Interactive (LiaScript)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Masub27/Intro/main/lessons/example-lesson.md) |

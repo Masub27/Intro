@@ -1,0 +1,6 @@
+{
+  "github.copilot.chat.editing.enable": true,
+  "github.copilot.chat.workspace.enable": true,
+  "github.copilot.chat.insertDirectly": true,
+  "github.copilot.chat.experimental.allowFileEdits": true
+}
