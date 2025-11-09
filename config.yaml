@@ -1,0 +1,7 @@
+course_name: "AI Teaching Workflow"
+author: "Your Name"
+version: "1.0"
+output_path: "lessons/"
+auto_generate: true
+default_template: "lesson-template.md"
+language: "en"
