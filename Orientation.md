@@ -331,7 +331,7 @@ GROUP#2) Saturday/Sunday 10am-4pm (7h)
 > Recommended Module for 1st Semester
 <span style="color: red;">Module 2: Structures and theories of Technical and Vocational Education and Training</span>  
 
-<span style="color: green;">Seminar: Structures and Theories of Vocational Education (4  CP; Ms Dr. Brings)</span>  
+<span style="color: green;">Seminar: Structures and Theories of Vocational Education (4  CP; Mr Lutz Thelen)</span>  
 
 LSF:
 https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=224228&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
@@ -339,15 +339,16 @@ https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=
 E Learning:
 https://elearning.ovgu.de/course/view.php?id=19513
 
-<span style="color: purple;">Friday - Sunday 10am-4pm (6h) and 10am-2pm (4h) </span>
+<span style="color: purple;">Saturday - Sunday 10am-4pm (6h) and 10am-2pm (4h) </span>
 
-> 1) 28.11.2025 (6h); 2) 29.11.2025 (6h); 3) 30.11.2025 (6h); 4) 06.12.2025 (6h); 5) 07.12.2025 (4h)
-
-
-
+> 1) 07.12.2025 (6h); 2) 13.12.2025 (6h); 3) 14.12.2025 (6h); 4)
+20.12.2025 (6h); 5) 21.12.2025 (4h)
 
 
-<span style="color: green;">Seminar: Focus Seminar for Vocational Education (6  CP; Ms Dr. Brings)
+
+
+
+<span style="color: green;">Seminar: Focus Seminar for Vocational Education (6  CP; Mr Lutz Thelen)
 </span>
 
 LSF:
@@ -360,7 +361,8 @@ https://elearning.ovgu.de/course/view.php?id=19514
 
 <span style="color: purple;">Friday -Sunday 10am-4pm (6h) and 10am-2pm (4h) </span>
 
-> 1) 09.01.2026 (6h), 2) 10.01.2026 (6h), 3) 11.01.2026 (6h), 4) 17.01.2026 (6h), 5) 18.01.2026 (4h)
+> 1) 10.01.2026 (6h), 2) 11.01.2026 (6h), 3) 17.01.2026 (6h), 4)
+18.01.2026 (6h), 5) 24.01.2026 (4h)
 
 
 
@@ -796,6 +798,7 @@ https://elearning.ovgu.de/course/view.php?id=18077
 # END
 
 ![](https://github.com/Masub27/Intro/blob/main/3d.gif?raw=true)
+
 
 
 
