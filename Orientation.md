@@ -341,8 +341,7 @@ https://elearning.ovgu.de/course/view.php?id=19513
 
 <span style="color: purple;">Saturday - Sunday 10am-4pm (6h) and 10am-2pm (4h) </span>
 
-> 1) 07.12.2025 (6h); 2) 13.12.2025 (6h); 3) 14.12.2025 (6h); 4)
-20.12.2025 (6h); 5) 21.12.2025 (4h)
+> 1) 07.12.2025 (6h); 2) 13.12.2025 (6h); 3) 14.12.2025 (6h); 4)20.12.2025 (6h); 5) 21.12.2025 (4h)
 
 
 
@@ -361,8 +360,7 @@ https://elearning.ovgu.de/course/view.php?id=19514
 
 <span style="color: purple;">Friday -Sunday 10am-4pm (6h) and 10am-2pm (4h) </span>
 
-> 1) 10.01.2026 (6h), 2) 11.01.2026 (6h), 3) 17.01.2026 (6h), 4)
-18.01.2026 (6h), 5) 24.01.2026 (4h)
+> 1) 10.01.2026 (6h), 2) 11.01.2026 (6h), 3) 17.01.2026 (6h), 4)18.01.2026 (6h), 5) 24.01.2026 (4h)
 
 
 
@@ -798,6 +796,7 @@ https://elearning.ovgu.de/course/view.php?id=18077
 # END
 
 ![](https://github.com/Masub27/Intro/blob/main/3d.gif?raw=true)
+
 
 
 
