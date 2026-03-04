@@ -1,24 +1,37 @@
 <!--
+
 author:   Masub Makhdoom
-
 email:    masub.makhdoom@ovgu.de
-
-version:  0.0.1
-
+date:     27/01/2026
+version:  30.0.0
 language: en
+narrator: UK English Female
 
-narrator: US English Female
+repository: https://github.com/LiaScript/docs
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+logo:     img/logo.png
+
+comment:  This document shall provide an entire compendium and course on the
+          development of Open-courSes with [LiaScript](https://LiaScript.github.io).
+          As the language and the systems grows, also this document will be updated.
+          Feel free to fork or copy it, translations are very welcome...
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+          https://felixhao28.github.io/JSCPP/dist/JSCPP.es5.min.js
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
-script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+link: https://raw.githubusercontent.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/refs/heads/main/VorlageUN.css
 
-translation: Deutsch  translations/German.md
+link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
-translation: Français translations/French.md
+import:   https://raw.githubusercontent.com/liaTemplates/ABCjs/main/README.md
+
+link:     https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs
+          https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham
+
+font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
+
 -->
 # Welcome to International Technical and Vocational Education and Training
 Welcome center [https://www.servicecenter.ovgu.de/csc/en/]()
@@ -58,14 +71,14 @@ The International Technical and Vocational Education and Training (ITVET) progra
 # ITVET Course of Study
 Please take a look at the information below regarding the ITVET course of study. Additional details can be found at the following link: [https://www.itvet.ovgu.de/Application.html]()
 
-Since all courses are also offered online, you have the opportunity to study online.
-# Entry requirements
+>Since all courses are also offered online, you have the opportunity to study online.
+# Entry Requirements
 * Bachelor degree or equivalent awarded by a higher education institution acknowledged in Germany
 * English language skills for non-native speakers (proof valid for max. 2 years!): minimum TOEFL test outcome of 213 (computer based) or 550 (paper based) or 79 (internet based) or IELTS (min. 6,0)
 
 * Proof of previous work experience of at least 6 months
 
-**PS: If one of the documents is not provided, admission to the course will be refused. Please ensure that your documents are complete. The most common exclusion criteria:**
+>**PS: If one of the documents is not provided, admission to the course will be refused. Please ensure that your documents are complete. The most common exclusion criteria:**
 
 * BA documents incomplete
 
@@ -79,11 +92,11 @@ For non-native English speakers, it is essential to have a minimum TOEFL test sc
 [https://www.ovgu.de/unimagdeburg/en/International/Incoming+_+Ways+to+the+University/International+Students/Full_Time+Studies/General+Requirements-faq-107256-p-107050.html#faq_107256]()
 
 # Application and Admission
-To apply for the program and start your studies, please visit [https://www.itvet.ovgu.de/Application.html]() 
+* To apply for the program and start your studies, please visit [https://www.itvet.ovgu.de/Application.html]() 
 
-Ensure that all application documents are complete when submitting them to Uni-assist [https://www.uni-assist.de/en/]()
+* Ensure that all application documents are complete when submitting them to Uni-assist [https://www.uni-assist.de/en/]()
 
- For any queries regarding the application process, please contact Uni Assist. Please note that the selection procedure and allocation of registration documents are handled exclusively through Uni Assist.
+*  For any queries regarding the application process, please contact Uni Assist. Please note that the selection procedure and allocation of registration documents are handled exclusively through Uni Assist.
 
 > Please note that final decision will be taken only after receipt of your application via uni-assist. The decision for your admission will be made after the final examination of your application.
 
@@ -117,7 +130,7 @@ Summer Semester: January 15
 # Tuition Fees and Enrollment Fees
 
 
-The tuition fees for the English-language program amount to 5,600 EUR per year **(2,800 EUR per semester)**. Please be aware that exemptions or installment payment options for tuition fees are not available. Additionally, there is an enrollment fee of 311.30 EUR per semester <https://www.ovgu.de/en/reregistration.html>, covering services provided by the "Studentenwerk" (Student Union) and student representatives.
+The tuition fees for the English-language program amount to 5,600 EUR per year **(~~2,800 EUR per semester~~)**. Please be aware that exemptions or installment payment options for tuition fees are not available. Additionally, there is an enrollment fee of 311.30 EUR per semester <https://www.ovgu.de/en/reregistration.html>, covering services provided by the "Studentenwerk" (Student Union) and student representatives.
 
 # Living Expenses
 
@@ -134,32 +147,18 @@ Upon successful completion of all modules and the Master Thesis, students will r
 The accommodation is to be organised by students themselves. Upon admission to the course, you will receive information about the accommodation options.
 As we do not have information about the available apartments.
 
-Instead of asking for the best apartments, please feel free to inquire about the available options.
+>Instead of asking for the best apartments, please feel free to inquire about the available options.
 
-https://www.studenten-wohnen.net/
+* https://www.studenten-wohnen.net/
 
-https://www.studenten-wohnen.net/pages/standorte/magdeburg.php
+* https://www.studenten-wohnen.net/pages/standorte/magdeburg.php
 
+* https://www.studenten-wohnen.net/pages/standorte/magdeburg/campus-tower/1-raum-apartments.php
+
+* https://www.studenten-wohnen.net/pages/standorte/magdeburg/campus-house/1-raum-wohnung.php
+
+* https://www.wobau-magdeburg.de/en/apartments?search=1&ber=&stadtteil=&flaeche=&miete=&zimmer=1&wg=&wg_moebliert=0
  
+* https://www.diestadtfelder.de/studentenwohnung/
 
-
-
-https://www.studenten-wohnen.net/pages/standorte/magdeburg/campus-tower/1-raum-apartments.php
-
- 
-
-
-
-https://www.studenten-wohnen.net/pages/standorte/magdeburg/campus-house/1-raum-wohnung.php
-
- 
-
-https://www.wobau-magdeburg.de/en/apartments?search=1&ber=&stadtteil=&flaeche=&miete=&zimmer=1&wg=&wg_moebliert=0
-
- 
-
-https://www.diestadtfelder.de/studentenwohnung/
-
- 
-
-https://www.immobilienscout24.de/Suche/de/sachsen-anhalt/magdeburg/studentenwohnung-mieten?numberofrooms=1.0-1.0&enteredFrom=result_list
+* https://www.immobilienscout24.de/Suche/de/sachsen-anhalt/magdeburg/studentenwohnung-mieten?numberofrooms=1.0-1.0&enteredFrom=result_list
