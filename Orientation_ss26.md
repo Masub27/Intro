@@ -553,6 +553,8 @@ Following these steps will help ensure a smooth start to your studies in the ITV
 
 # ITVET Master Programme – Modules and Seminars Overview
 
+>Please note that Modules 1–3 are offered in the Winter Semester and Modules 4–6 in the Summer Semester. Furthermore, successful completion of the first six modules is also a prerequisite for thesis registration.
+
 | Module | Seminar / Course | CP | Semester |
 |------|------------------|----|---------|
 | **Module 1: Didactics and Methodology of Technical and Vocational Education and Training** | Didactics and Learning Theories in Vocational Education and Training (908410) | 6 | WiSe |
