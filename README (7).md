@@ -488,7 +488,7 @@ This approach can make Green TVET realistic and sustainable.
 
 ---
 
- Summary
+ 
 
 ## Summary of the presentation
 
