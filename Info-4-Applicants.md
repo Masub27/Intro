@@ -1,0 +1,168 @@
+<!--
+
+author:   Masub Makhdoom
+email:    masub.makhdoom@ovgu.de
+date:     27/01/2026
+version:  30.0.0
+language: en
+narrator: UK English Female
+
+repository: https://github.com/LiaScript/docs
+
+logo:     img/logo.png
+
+comment:  This document shall provide an entire compendium and course on the
+          development of Open-courSes with [LiaScript](https://LiaScript.github.io).
+          As the language and the systems grows, also this document will be updated.
+          Feel free to fork or copy it, translations are very welcome...
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+          https://felixhao28.github.io/JSCPP/dist/JSCPP.es5.min.js
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+link: https://raw.githubusercontent.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/refs/heads/main/VorlageUN.css
+
+link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+
+import:   https://raw.githubusercontent.com/liaTemplates/ABCjs/main/README.md
+
+link:     https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs
+          https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham
+
+font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
+
+-->
+# Welcome to International Technical and Vocational Education and Training
+Welcome center [https://www.servicecenter.ovgu.de/csc/en/]()
+Contact
+Otto-von-Guericke-Universität
+Magdeburg
+
+Universitätsplatz 2
+
+39106 Magdeburg
+
+Campus Welcome Center
+
+Building 01
+
+Tel.: +49 (0) 391 67 50 000
+
+servicecenter@ovgu.de
+
+[https://www.ovgu.de/-p-36390.html]()
+![](https://github.com/61087/Intro/blob/main/Panorama.jpg?raw=true) 
+Otto von Guericke University Magdeburg
+
+Faculty of Human Sciences
+
+Building 40
+
+Zschokkestr. 32
+
+39104 Magdeburg
+
+
+![](https://github.com/61087/Intro/blob/main/ZC7A3377-730x400.jpg?raw=true)
+# ITVET Course Information
+The International Technical and Vocational Education and Training (ITVET) program is an English-language program funded through tuition fees, with scholarship opportunities available. However, applicants seeking a scholarship for the English-language program (DAAD only) must provide proof of German language proficiency at a minimum B2 level.
+
+# ITVET Course of Study
+Please take a look at the information below regarding the ITVET course of study. Additional details can be found at the following link: [https://www.itvet.ovgu.de/Application.html]()
+
+>Since all courses are also offered online, you have the opportunity to study online.
+
+>The summer semester courses for first-year students start in early May. The winter semester courses do not begin until early November.
+# Entry Requirements
+* Bachelor degree or equivalent awarded by a higher education institution acknowledged in Germany
+* English language skills for non-native speakers (proof valid for max. 2 years!): minimum TOEFL iBT   test outcome of 85 or  IELTS (min. 6,5)
+
+* Proof of previous work experience of at least 6 months
+
+>**PS: If one of the documents is not provided, admission to the course will be refused. Please ensure that your documents are complete. The most common exclusion criteria:**
+
+* BA documents incomplete
+
+* Language skills not acceptable, certificate expired (only valid for 2 years)
+
+* No proof of practical experience, just a CV is not enough.
+
+* All documents must be submitted on time, not later.
+# Language Requirements
+For non-native English speakers, it is essential to have a minimum TOEFL iBT test score of 85  or an IELTS score of at least 6.5. Regardless of your Bachelor's or Master's degree in English, one of these certificates must be provided as proof of language proficiency, which is a mandatory requirement for admission.
+[https://www.ovgu.de/unimagdeburg/en/International/Incoming+_+Ways+to+the+University/International+Students/Full_Time+Studies/General+Requirements-faq-107256-p-107050.html#faq_107256]()
+
+# Application and Admission
+* To apply for the program and start your studies, please visit [https://www.itvet.ovgu.de/Application.html]() 
+
+* Ensure that all application documents are complete when submitting them to Uni-assist [https://www.uni-assist.de/en/]()
+
+*  For any queries regarding the application process, please contact Uni Assist. Please note that the selection procedure and allocation of registration documents are handled exclusively through Uni Assist.
+
+> Please note that final decision will be taken only after receipt of your application via uni-assist. The decision for your admission will be made after the final examination of your application.
+
+# Application Deadline and Enrollment
+The application from summer semester 2027 starts in November 2026 and ends on January 15, 2027. Successful applicants can begin their studies in April/May 2027.
+
+ The decision regarding access to the study course will be communicated by the end of Ferbuary.
+ [https://www.ovgu.de/unimagdeburg_media/International/Incoming+_+Wege+aus+dem+Ausland/Studium+mit+Abschluss/OVGU+Referenzrahmen+Sprachnachweise+2026.pdf]()
+
+>Application deadline
+ 
+**<span style="color: green;">Applicants with German Bachelor Degree via my OVGU portal</span>**
+https://myovgu.ovgu.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
+
+Winter Semester: September 15
+
+Summer Semester: March 15
+
+
+**<span style="color: green;"> Applicants with International Bachelor Degree via Uni-Assist</span> **
+https://www.uni-assist.de/en/how-to-apply/apply-online/?pk_campaign=394
+
+ Winter Semester: July 15
+
+
+Summer Semester: January 15
+
+
+
+
+  
+
+# Tuition Fees and Enrollment Fees
+
+
+The tuition fees for the English-language program amount to 4,600 EUR per year **(~~2,300 EUR per semester~~)**. Please be aware that exemptions or installment payment options for tuition fees are not available. Additionally, there is an enrollment fee of 329.30 EUR per semester (As of July 16, 2026) <https://www.ovgu.de/unimagdeburg/en/reregistration-p-43700.html>, covering services provided by the "Studentenwerk" (Student Union) and student representatives.
+
+# Living Expenses
+
+To cover accommodation, living costs, health insurance, books, and other miscellaneous expenses, a minimum budget of 992 EUR per month is recommended.
+
+# Scholarship Opportunities
+If you are interested in applying for a scholarship from the DAAD, it is advisable to have proof of German language proficiency at least at the B2 level. Further information about scholarships can be found at the following 
+[https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/]()
+
+# Degree and Future Opportunities
+Upon successful completion of all modules and the Master Thesis, students will receive the degree Master of Science (M.Sc) in **"International Technical and Vocational Education and Training"** from the Otto-von-Guericke University. The "Master of Science" degree qualifies for subsequent PhD studies. The program also prepares students for the post-graduate program „Berufsbildung und Personalentwicklung" (TVET and human resource development) and fosters competences especially for your own research projects (e.g. within the scope of your PhD studies).
+# Accommodation
+
+The accommodation is to be organised by students themselves. Upon admission to the course, you will receive information about the accommodation options.
+As we do not have information about the available apartments.
+
+>Instead of asking for the best apartments, please feel free to inquire about the available options.
+
+* https://www.studenten-wohnen.net/
+
+* https://www.studenten-wohnen.net/pages/standorte/magdeburg.php
+
+* https://www.studenten-wohnen.net/pages/standorte/magdeburg/campus-tower/1-raum-apartments.php
+
+* https://www.studenten-wohnen.net/pages/standorte/magdeburg/campus-house/1-raum-wohnung.php
+
+* https://www.wobau-magdeburg.de/en/apartments?search=1&ber=&stadtteil=&flaeche=&miete=&zimmer=1&wg=&wg_moebliert=0
+ 
+* https://www.diestadtfelder.de/studentenwohnung/
+
+* https://www.immobilienscout24.de/Suche/de/sachsen-anhalt/magdeburg/studentenwohnung-mieten?numberofrooms=1.0-1.0&enteredFrom=result_list
